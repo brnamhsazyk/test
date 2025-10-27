@@ -1,0 +1,8 @@
+{
+  "appConfig": {
+    "isAppActive": true,
+    "appVersion": "1.0.0",
+    "updateAvailable": true,
+    "isUpdateMandatory": false
+  }
+}
