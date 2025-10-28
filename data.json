@@ -10,8 +10,8 @@
       "isActive": true,
       "detailsButtonActive": true,
       "receiveButtonActive": true,
-      "referralCodeActive": true,
-      "link": "*555*2##",
+      "referralCodeActive": false,
+      "link": "https://milli.gold/app/sign-up?referralCode=milli-dlqbn",
       "referralCode": "milli-dlqbn"
     },
     {
