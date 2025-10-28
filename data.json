@@ -9,7 +9,7 @@
       "prizeAmount": "۵۰ هزار تومان",
       "isActive": true,
       "detailsButtonActive": true,
-      "receiveButtonActive": false,
+      "receiveButtonActive": true,
       "referralCodeActive": true,
       "link": "https://milli.gold/app/sign-up?referralCode=milli-dlqbn",
       "referralCode": "milli-dlqbn"
