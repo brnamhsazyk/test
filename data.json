@@ -10,7 +10,7 @@
       "isActive": true,
       "detailsButtonActive": true,
       "receiveButtonActive": true,
-      "referralCodeActive": false,
+      "referralCodeActive": true,
       "link": "https://milli.gold/app/sign-up?referralCode=milli-dlqbn",
       "referralCode": "milli-dlqbn"
     },
@@ -19,14 +19,14 @@
       "title": "۵۰ گیگابایت اینترنت رایگان ایرانسل",
       "image": "https://raw.githubusercontent.com/brnamhsazyk/test/main/mili2025.jpg",
       "description": "مشترکین دائمی و اعتباری با نصب اپلیکیشن ایرانسل من اینترنت رایگان 50 گیگابایت دریافت خواهند کرد. لازم به ذکر است با نصب ایرانسل من برای اولین بار 50 گیگابایت اینترنت هدیه ایرانسل دریافت می‌کنند.",
-      "fullDescription": " همین حالا با کلیک روی دکمه‌ی «دریافت هدیه» وارد شده و ثبت‌نام کنید تا ۵۰ هزار تومان هدیه‌ی قابل برداشت دریافت کنید! برای گرفتن این هدیه، فقط کافیه ثبت‌نامتون رو در میلی کامل کنید. تازه، بعد از ثبت‌نام می‌تونید دوستانتون رو هم به میلی دعوت کنید و هر دو ۵۰ هزار تومان هدیه بگیرید! یادتون باشه، برای دریافت هدیه حتماً باید کد دعوت زیر رو موقع ثبت‌نام وارد کنید، وگرنه هدیه بهتون تعلق نمی‌گیره!",
+      "fullDescription": "مشترکین دائمی و اعتباری با نصب اپلیکیشن ایرانسل من اینترنت رایگان 50 گیگابایت دریافت خواهند کرد. لازم به ذکر است با نصب ایرانسل من برای اولین بار 50 گیگابایت اینترنت هدیه ایرانسل دریافت می‌کنند. همچنین کاربران می‌توانند در صفحه اصلی اپلیکیشن ایرانسل من نسبت به فعال‌سازی هدیه ایرانسل خود اقدام کنند. علاوه بر آن با دعوت دوستان خود به این اپلیکیشن هم خود و هم دوستانتان از 50 گیگابایت اینترنت هدیه با اعتبار همان روز برخوردار خواهید شد.",
       "prizeAmount": "۵۰ گیگابایت",
       "isActive": true,
       "detailsButtonActive": true,
       "receiveButtonActive": true,
-      "referralCodeActive": false,
-      "link": "https://milli.gold/app/sign-up?referralCode=milli-dlqbn",
-      "referralCode": "milli-dlqbn"
+      "referralCodeActive": true,
+      "link": "https://myket.ir/app/com.myirancell",
+      "referralCode": "45#*"
     },
     {
       "id": 1,
