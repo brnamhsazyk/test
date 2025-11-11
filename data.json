@@ -57,6 +57,20 @@
       "referralCode": "*10*41#"
     },
     {
+      "id": 6,
+      "title": "۵۰ هزار تومان هدیه صراف ",
+      "image": "https://raw.githubusercontent.com/brnamhsazyk/test/main/saraf.jpg",
+      "description": "روی دکمه «دریافت» کلیک کنید، وارد صراف شوید و مراحل ثبت نام را به پایان برسانید. بلافاصله ۵۰ هزار تومان هدیه دریافت خواهید کرد این مبلغ پس از گذشت یک ماه، قابل برداشت به کارت خواهد بود.",
+      "fullDescription": "جزئیاتی وجود ندارد",
+      "prizeAmount": "۵۰ هزار تومان",
+      "isActive": true,
+      "detailsButtonActive": true,
+      "receiveButtonActive": true,
+      "referralCodeActive": true,
+      "link": "https://saraf.app/?ref=y4rtt",
+      "referralCode": "y4rtt"
+    },
+    {
       "id": 5,
       "title": "۲۰ هزار تومان شارژ رایگان",
       "image": "https://raw.githubusercontent.com/brnamhsazyk/test/main/esmartiz.jpg",
