@@ -71,6 +71,20 @@
       "referralCode": "y4rtt"
     },
     {
+      "id": 7,
+      "image": "https://raw.githubusercontent.com/brnamhsazyk/test/main/myirancell.jpg",
+      "description": "اگر حداقل 30 روز از اینترنت سیم کارت ایرانسل خود استفاده نکرده‌اید، می‌توانید با شماره‌گیری کد دستوری ستاره 4444 ستاره 2 ستاره 5 مربع و یا مراجعه به بخش پیشنهادها در اپلیکیشن ایرانسل من، از 30 گیگ اینترنت رایگان ایرانسل به‌مدت 30 روز بهره‌مند شوید. ",
+      "fullDescription": "جزئیاتی وجود ندارد",
+      "prizeAmount": "۳۰ گیگابایت",
+      "isActive": true,
+      "detailsButtonActive": false,
+      "receiveButtonActive": true,
+      "referralCodeActive": true,
+      "link": "*4444*2*5#",
+      "referralCode": "*4444*2*5#",
+      "title": " هدیه استفاده مجدد اینترنت ایرانسل "
+    },
+    {
       "id": 5,
       "title": "۲۰ هزار تومان شارژ رایگان",
       "image": "https://raw.githubusercontent.com/brnamhsazyk/test/main/esmartiz.jpg",
