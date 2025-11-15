@@ -86,7 +86,7 @@
     },
     {
       "id": 8,
-      "title": "۱۰۰ هزار تومان هدیه طلاین",
+      "title": "۱۰ سوت طلای رایگان هدیه طلاین",
       "image": "https://raw.githubusercontent.com/brnamhsazyk/test/main/saraf.jpg",
       "description": "از طریق دکمه «دریافت» وارد طلاین شوید، ثبت‌نام کنید و ۱۰ سوت طلا‌ بخرید. به‌عنوان هدیه، ۱۰ سوت طلا (معادل ۱۰۰ هزار تومان) دریافت خواهید کرد. پس از آن می‌توانید کل مبلغ خرید و هدیه را به‌راحتی به حساب بانکی خود برداشت کنید.",
       "fullDescription": "جزئیاتی وجود ندارد",
@@ -97,6 +97,20 @@
       "referralCodeActive": true,
       "link": "https://my.tlyn.ir/register?referral=GZWZOVZ",
       "referralCode": "GZWZOVZ"
+    },
+    {
+      "id": 9,
+      "title": "هدیه فعالسازی سیم‌کارت همراه‌اول ",
+      "image": "https://raw.githubusercontent.com/brnamhsazyk/test/main/test2025.jpg",
+      "description": "مشترکین همراه اول با فعال‌سازی سیم‌کارت‌های غیرفعال شده (بیش از ۹۰ روز)، ۳۰ گیگابایت اینترنت هدیه دریافت کنند. برای دریافت این هدیه، کد دستوری *10*3320# را شماره‌گیری کرده و مراحل را دنبال کنید.",
+      "fullDescription": "جزئیاتی وجود ندارد",
+      "prizeAmount": "۳۰ گیگابایت",
+      "isActive": true,
+      "detailsButtonActive": false,
+      "receiveButtonActive": true,
+      "referralCodeActive": true,
+      "link": "*10*3320#",
+      "referralCode": "*10*3320#"
     },
     {
       "id": 5,
