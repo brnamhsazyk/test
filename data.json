@@ -85,6 +85,20 @@
       "title": "هدیه استفاده مجدد اینترنت ایرانسل "
     },
     {
+      "id": 8,
+      "title": "۱۰۰ هزار تومان هدیه طلاین",
+      "image": "https://raw.githubusercontent.com/brnamhsazyk/test/main/saraf.jpg",
+      "description": "از طریق دکمه «دریافت» وارد طلاین شوید، ثبت‌نام کنید و ۱۰ سوت طلا‌ بخرید. به‌عنوان هدیه، ۱۰ سوت طلا (معادل ۱۰۰ هزار تومان) دریافت خواهید کرد. پس از آن می‌توانید کل مبلغ خرید و هدیه را به‌راحتی به حساب بانکی خود برداشت کنید.",
+      "fullDescription": "جزئیاتی وجود ندارد",
+      "prizeAmount": "۱۰۰ هزار تومان",
+      "isActive": true,
+      "detailsButtonActive": true,
+      "receiveButtonActive": true,
+      "referralCodeActive": true,
+      "link": "https://my.tlyn.ir/register?referral=GZWZOVZ",
+      "referralCode": "GZWZOVZ"
+    },
+    {
       "id": 5,
       "title": "۲۰ هزار تومان شارژ رایگان",
       "image": "https://raw.githubusercontent.com/brnamhsazyk/test/main/esmartiz.jpg",
@@ -99,4 +113,5 @@
       "referralCode": "milli-dlqbn"
     }
   ]
+}  ]
 }
