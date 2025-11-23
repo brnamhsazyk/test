@@ -15,20 +15,6 @@
       "referralCode": "milli-dlqbn"
     },
     {
-      "id": 1,
-      "title": "۵۵ هزار تومان هدیه میلی!😍🌷",
-      "image": "https://raw.githubusercontent.com/brnamhsazyk/test/main/mili2025.jpg",
-      "description": "اگر تا حالا در میلی ثبت نام نکرداید،از طریق دکمه «دریافت» وارد و ثبت نام کنید بعد از احراز هویت ۵۵ هزار تومان قابل برداشت به کارت دریافت خواهید کرد.",
-      "fullDescription": " همین حالا با کلیک روی دکمه‌ی «دریافت هدیه» وارد شده و ثبت‌نام کنید تا ۵۵ هزار تومان هدیه‌ی قابل برداشت دریافت کنید! برای گرفتن این هدیه، فقط کافیه ثبت‌نامتون رو در میلی کامل کنید. تازه، بعد از ثبت‌نام می‌تونید دوستانتون رو هم به میلی دعوت کنید و بعد هر دعوت ۵۰ هزار تومان دوستتون و ۱۱۰ هزار تومان شما هدیه بگیرید! یادتون باشه، برای دریافت هدیه حتماً باید کد دعوت زیر رو موقع ثبت‌نام وارد کنید، وگرنه هدیه بهتون تعلق نمی‌گیره!",
-      "prizeAmount": "۵۵ هزار تومان",
-      "isActive": true,
-      "detailsButtonActive": true,
-      "receiveButtonActive": true,
-      "referralCodeActive": true,
-      "link": "https://milli.gold/app/sign-up?referralCode=milli-dlqbn",
-      "referralCode": "milli-dlqbn"
-    },
-    {
       "id": 6,
       "title": "۵۰ هزار تومان هدیه صراف ",
       "image": "https://raw.githubusercontent.com/brnamhsazyk/test/main/saraf.jpg",
@@ -43,18 +29,18 @@
       "referralCode": "y4rtt"
     },
     {
-      "id": 10,
-      "title": "۵۵ هزار تومان هدیه ملی گلد",
-      "image": "https://raw.githubusercontent.com/brnamhsazyk/test/main/mligold.jpg",
-      "description": "اگر در ملی گلد ثبت نام نکردید، می‌توانید با کلیک روی دکمه «دریافت» وارد ملی گلد شوید و حساب کاربری بسازید و پس از انجام احراز هویت، ۵ سوت طلا رایگان (معادل حدود ۵۵ هزار تومان) به عنوان هدیه دریافت کنید.",
-      "fullDescription": "اگر در ملی گلد ثبت نام نکردید، می‌توانید با کلیک روی دکمه «دریافت هدیه» وارد ملی گلد شوید و حساب کاربری بسازید و پس از انجام احراز هویت، ۵ سوت طلا رایگان (معادل حدود ۵۵ هزار تومان) به عنوان هدیه دریافت کنید،علاوه بر این هدایا شما می‌توانید با معرفی دوستان خود به ملی گلد، به ازای هر ثبت‌نام موفق، ۵۵ هزار تومان دریافت کنید و به این صورت کسب درآمد کنید.",
+      "id": 1,
+      "title": "۵۵ هزار تومان هدیه میلی!😍🌷",
+      "image": "https://raw.githubusercontent.com/brnamhsazyk/test/main/mili2025.jpg",
+      "description": "اگر تا حالا در میلی ثبت نام نکرداید،از طریق دکمه «دریافت» وارد و ثبت نام کنید بعد از احراز هویت ۵۵ هزار تومان قابل برداشت به کارت دریافت خواهید کرد.",
+      "fullDescription": " همین حالا با کلیک روی دکمه‌ی «دریافت هدیه» وارد شده و ثبت‌نام کنید تا ۵۵ هزار تومان هدیه‌ی قابل برداشت دریافت کنید! برای گرفتن این هدیه، فقط کافیه ثبت‌نامتون رو در میلی کامل کنید. تازه، بعد از ثبت‌نام می‌تونید دوستانتون رو هم به میلی دعوت کنید و بعد هر دعوت ۵۰ هزار تومان دوستتون و ۱۱۰ هزار تومان شما هدیه بگیرید! یادتون باشه، برای دریافت هدیه حتماً باید کد دعوت زیر رو موقع ثبت‌نام وارد کنید، وگرنه هدیه بهتون تعلق نمی‌گیره!",
       "prizeAmount": "۵۵ هزار تومان",
       "isActive": true,
       "detailsButtonActive": true,
       "receiveButtonActive": true,
       "referralCodeActive": true,
-      "link": "https://melligold.com/pwa/account/?ref=MGvxClxueKzB",
-      "referralCode": "MGvxClxueKzB"
+      "link": "https://milli.gold/app/sign-up?referralCode=milli-dlqbn",
+      "referralCode": "milli-dlqbn"
     },
     {
       "id": 2,
@@ -69,6 +55,20 @@
       "referralCodeActive": true,
       "link": "https://myket.ir/app/com.myirancell",
       "referralCode": "*45#"
+    },
+    {
+      "id": 10,
+      "title": "۵۵ هزار تومان هدیه ملی گلد",
+      "image": "https://raw.githubusercontent.com/brnamhsazyk/test/main/mligold.jpg",
+      "description": "اگر در ملی گلد ثبت نام نکردید، می‌توانید با کلیک روی دکمه «دریافت» وارد ملی گلد شوید و حساب کاربری بسازید و پس از انجام احراز هویت، ۵ سوت طلا رایگان (معادل حدود ۵۵ هزار تومان) به عنوان هدیه دریافت کنید.",
+      "fullDescription": "اگر در ملی گلد ثبت نام نکردید، می‌توانید با کلیک روی دکمه «دریافت هدیه» وارد ملی گلد شوید و حساب کاربری بسازید و پس از انجام احراز هویت، ۵ سوت طلا رایگان (معادل حدود ۵۵ هزار تومان) به عنوان هدیه دریافت کنید،علاوه بر این هدایا شما می‌توانید با معرفی دوستان خود به ملی گلد، به ازای هر ثبت‌نام موفق، ۵۵ هزار تومان دریافت کنید و به این صورت کسب درآمد کنید.",
+      "prizeAmount": "۵۵ هزار تومان",
+      "isActive": true,
+      "detailsButtonActive": true,
+      "receiveButtonActive": true,
+      "referralCodeActive": true,
+      "link": "https://melligold.com/pwa/account/?ref=MGvxClxueKzB",
+      "referralCode": "MGvxClxueKzB"
     },
     {
       "id": 4,
