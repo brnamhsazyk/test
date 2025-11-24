@@ -134,7 +134,7 @@
       "fullDescription": "جزئیاتی وجود ندارد",
       "prizeAmount": "۵ هزار تومان",
       "isActive": false,
-      "detailsButtonActive": false,
+      "detailsButtonActive": true,
       "receiveButtonActive": true,
       "referralCodeActive": true,
       "link": "https://rubika.ir/Sharj4Free",
