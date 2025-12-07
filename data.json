@@ -29,20 +29,6 @@
       "referralCode": "MG53HOJU721W"
     },
     {
-      "id": 12,
-      "title": "۵ هزار تومان شارژ رایگان",
-      "image": "https://raw.githubusercontent.com/brnamhsazyk/test/main/sasrs2025.jpg",
-      "description": "از طریق دکمه «دریافت» به پشتیبانی ما در روبیکا پیام بدید، و ۵ هزار تومان شارژ هدیه ورود به برنامه دریافت کنید، این هدیه رو از دست ندید.",
-      "fullDescription": "توضیحاتی وجود ندارد",
-      "prizeAmount": "۵ هزار تومان",
-      "isActive": true,
-      "detailsButtonActive": false,
-      "receiveButtonActive": true,
-      "referralCodeActive": true,
-      "link": "https://rubika.ir/Sharj4Free",
-      "referralCode": "milli-dlqbn"
-    },
-    {
       "id": 2,
       "title": "۵۰ گیگابایت اینترنت رایگان ایرانسل",
       "image": "https://raw.githubusercontent.com/brnamhsazyk/test/main/myirancell.jpg",
@@ -139,6 +125,20 @@
       "referralCodeActive": true,
       "link": "*10*3320#",
       "referralCode": "*10*3320#"
+    },
+    {
+      "id": 12,
+      "title": "۵ هزار تومان شارژ رایگان",
+      "image": "https://raw.githubusercontent.com/brnamhsazyk/test/main/sasrs2025.jpg",
+      "description": "از طریق دکمه «دریافت» به پشتیبانی ما در روبیکا پیام بدید، و ۵ هزار تومان شارژ هدیه ورود به برنامه دریافت کنید، این هدیه رو از دست ندید.",
+      "fullDescription": "توضیحاتی وجود ندارد",
+      "prizeAmount": "۵ هزار تومان",
+      "isActive": false,
+      "detailsButtonActive": true,
+      "receiveButtonActive": true,
+      "referralCodeActive": true,
+      "link": "https://milli.gold/app/sign-up?referralCode=milli-dlqbn",
+      "referralCode": "milli-dlqbn"
     },
     {
       "id": 5,
